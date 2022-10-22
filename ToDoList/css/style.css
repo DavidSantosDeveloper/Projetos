@@ -155,3 +155,21 @@ input,select{
     font-style: italic;
     font-weight: bold;
 }
+.all-tarefa{
+    background-color: #102f5e;
+}
+.all-tarefa h3{
+    color: black;
+    font-style: italic;
+    font-weight: bold;
+}
+.todo-tarefa{
+    background-color: rgb(241, 241, 65);
+
+}
+.todo-tarefa h3{
+    color: white;
+    font-style: italic;
+    font-weight: bold;
+}
+
